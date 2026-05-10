@@ -7,7 +7,7 @@ subtitle: Luso-Brazilian Literature | Critical Theory | Continental Philosophy |
 profile:
   align: right
   image: profile.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>lingchen.huang4900@gmail.com</p>
 
