@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Luso-Brazilian Literature | Critical Theory | Continental Philosophy | Environmental Humanities
+subtitle: '<span style="color: var(--global-theme-color);">Luso-Brazilian Literature</span> · <span style="color: var(--global-theme-color);">Critical Theory</span> · <span style="color: var(--global-theme-color);">Continental Philosophy</span> · <span style="color: var(--global-theme-color);">Environmental Humanities</span>'
 
 profile:
   align: right
