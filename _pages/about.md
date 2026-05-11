@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: '<span style="color: var(--global-theme-color);">Luso-Brazilian Literature</span> · <span style="color: var(--global-theme-color);">Critical Theory</span> · <span style="color: var(--global-theme-color);">Continental Philosophy</span> · <span style="color: var(--global-theme-color);">Environmental Humanities</span>'
 
