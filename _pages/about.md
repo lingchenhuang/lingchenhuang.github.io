@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Lingchen is an early-career researcher in literature and philosophy whose work spans modern literature from Portuguese-speaking countries, global modernism, critical theory and continental philosophy. She recently completed a DPhil (PhD) in Medieval and Modern Languages at the University of Oxford, where her dissertation explored the relationship between subjectivity and materiality in Clarice Lispector’s novels, with a focus on affect and nonhuman phenomena. She has also published on trauma and postcolonial studies in Lusophone Africa, cosmopolitanism, affective politics, and infrastructure studies in Brazil in *Portuguese Studies*, *Luso-Brazilian Review*, *Romance Notes*, *Journal of Lusophone Studies*, and other journals.
+Lingchen is an early-career researcher in literature and philosophy whose work spans modern literature from Portuguese-speaking countries, global modernism, critical theory and continental philosophy. She holds a DPhil (PhD) in Medieval and Modern Languages from the University of Oxford, where her dissertation explored the relationship between subjectivity and materiality in Clarice Lispector’s novels, with a focus on affect and nonhuman phenomena. She has also published on trauma and postcolonial studies in Lusophone Africa, cosmopolitanism, affective politics, and infrastructure studies in Brazil in *Portuguese Studies*, *Luso-Brazilian Review*, *Romance Notes*, *Journal of Lusophone Studies*, and other journals.
 
 <br />
 
