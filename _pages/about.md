@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>lingchen.huang4900@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes the full list of publications
 social: false # includes social icons at the bottom of the page
 
 announcements:
